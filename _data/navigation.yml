@@ -1,0 +1,22 @@
+# main links
+main:
+#    - title: "Home"
+#      url: /
+   - title: "Home"
+     url: /
+     
+  #  - title: "Projects"
+  #    url: /projects/
+     
+  #  - title: "Blog Posts"
+  #    url: /posts/
+     
+   - title: "Research"
+     url: /research/
+
+   # - title: "Talks"
+   #   url: /talks/
+
+  #  - title: "Resume"
+  #    url: /about/
+
